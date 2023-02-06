@@ -30,3 +30,9 @@ CONTATOS:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/machad0kkj/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Machad0kkj)
+
+<div align="center">
+<br><p align="centre"><b>Contador de visitante</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/machad0kkj/count.svg" /></p> 
+<br>
+</div>
