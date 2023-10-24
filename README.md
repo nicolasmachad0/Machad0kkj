@@ -4,7 +4,7 @@
 
 
 
-![Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=Machad0kkj&show_icons=true&theme=tokyonight)
+![Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&theme=tokyonight)
 
 
 ### Tecnologias que eu uso no meu dia:
@@ -29,6 +29,6 @@ CONTATOS:
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitante</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/machad0kkj/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/nicolasmachad0/count.svg" /></p> 
 <br>
 </div>
